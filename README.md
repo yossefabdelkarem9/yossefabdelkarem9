@@ -93,26 +93,20 @@ I am a **4th-Year Senior Computer Science Student** and a passionate **Junior Da
 ---
 <br />
 
-<h3 align="center">📊 GitHub Stats & Achievements</h3>
+<h3 align="center">📊 Quick GitHub Overview</h3>
 
-<!-- 1. الكارت الشغال حالياً -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yossefabdelkarem9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Overall Stats" />
-</div>
+  <!-- سنة الانضمام لـ GitHub -->
+  <img src="https://img.shields.io/badge/GitHub%20Member-Since%202023-181717?style=for-the-badge&logo=github&logoColor=white" alt="Member Since" />
 
-<br />
+  <!-- عدد المشاريع العامّة -->
+  <img src="https://img.shields.io/badge/Public%20Repos-20%2B-239120?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" />
 
-<!-- 2. كارت الأوسمة والإنجازات (GitHub Profile Trophies) - مستقر جداً وبنفس التنسيق -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yossefabdelkarem9&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" width="90%" alt="GitHub Trophies" />
-</div>
+  <!-- التخصص الرئيسي -->
+  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Focus" />
 
-<br />
-
-<!-- 3. شارات إحصائية سريعة باستعمال Shields.io (مضمونة 100% ومستحيل تقف) -->
-<div align="center">
-  <img src="https://img.shields.io/github/followers/yossefabdelkarem9?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" />
-  <img src="https://img.shields.io/github/stars/yossefabdelkarem9?style=for-the-badge&color=bb9af7&logo=github" />
+  <!-- عداد زوار البروفايل (مضمون وشغال) -->
+  <img src="https://komarev.com/ghpvc/?username=yossefabdelkarem9&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
