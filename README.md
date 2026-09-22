@@ -93,11 +93,26 @@ I am a **4th-Year Senior Computer Science Student** and a passionate **Junior Da
 ---
 <br />
 
-<h3 align="center">📊 GitHub Profile Summary</h3>
+<h3 align="center">📊 GitHub Stats & Achievements</h3>
 
+<!-- 1. الكارت الشغال حالياً -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yossefabdelkarem9&theme=tokyonight" width="49%" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=yossefabdelkarem9&theme=tokyonight" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yossefabdelkarem9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Overall Stats" />
+</div>
+
+<br />
+
+<!-- 2. كارت الأوسمة والإنجازات (GitHub Profile Trophies) - مستقر جداً وبنفس التنسيق -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yossefabdelkarem9&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" width="90%" alt="GitHub Trophies" />
+</div>
+
+<br />
+
+<!-- 3. شارات إحصائية سريعة باستعمال Shields.io (مضمونة 100% ومستحيل تقف) -->
+<div align="center">
+  <img src="https://img.shields.io/github/followers/yossefabdelkarem9?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" />
+  <img src="https://img.shields.io/github/stars/yossefabdelkarem9?style=for-the-badge&color=bb9af7&logo=github" />
 </div>
 
 ---
