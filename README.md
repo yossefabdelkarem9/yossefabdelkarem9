@@ -95,8 +95,14 @@ I am a **4th-Year Senior Computer Science Student** and a passionate **Junior Da
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yossefabdelkarem9&show_icons=true&theme=radial&hide_border=true" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossefabdelkarem9&layout=compact&theme=radial&hide_border=true" height="150" alt="languages card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yossefabdelkarem9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossefabdelkarem9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="languages card" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yossefabdelkarem9&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
 
 ---
