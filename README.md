@@ -91,18 +91,22 @@ I am a **4th-Year Senior Computer Science Student** and a passionate **Junior Da
 - 🌟 **HackerRank Stars**: 5★ SQL | 5★ C++ | 5★ 30 Days of Code | 5★ Statistics
 
 ---
+<br />
 
-### 📈 GitHub Stats
+<h3 align="center">📈 GitHub Activity & Contributions</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yossefabdelkarem9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossefabdelkarem9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="languages card" />
+  <!-- Activity Graph (رسم بياني لمساهماتك) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yossefabdelkarem9&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Yossef's GitHub Activity Graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yossefabdelkarem9&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossefabdelkarem9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <!-- Overall Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yossefabdelkarem9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Overall Stats" />
 </div>
 
 ---
